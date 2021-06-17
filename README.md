@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently, I work as a freelance Web Developer in Madison, Wisconsin. I recently finished a coding bootcamp and I am looking for a developer job. I really enjoy working with the MERN stack.
+
 <!--
 **LeeStratman/LeeStratman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
